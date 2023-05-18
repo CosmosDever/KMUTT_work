@@ -1,6 +1,6 @@
 
 # Taxi Price Calculator
-The Taxi Price Calculator is a command-line program that helps calculate the cost of a taxi ride based on various factors such as distance, waiting time, and additional charges. This program is designed to provide an estimated price to users before they embark on a taxi journey.
+The Taxi Price Calculator is a program that helps calculate the cost of a taxi ride based on various factors such as distance, waiting time, and additional charges. This program is designed to provide an estimated price to users before they embark on a taxi journey.
 ## Features
 - Calculates the estimated price of a taxi ride based on the provided parameters.
 - Takes into account the distance traveled and waiting time during the journey.
